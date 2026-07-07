@@ -182,3 +182,5 @@ POST http://127.0.0.1:5000/predict
 - Selected Logistic Regression as the final model with an ROC AUC of 0.631
 - Deployed the model through a Flask API with Pickle serialization
 - Tested the API using Postman and a browser-based UI
+
+For the detailed report, please see the [Report PDF](https://github.com/thuhale2210/comp309-final-project/blob/main/Report.pdf).
